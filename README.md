@@ -13,9 +13,9 @@ All report content is in the directory:
 This report takes the following structure:
 - 1-Data.csv
 - 2-Linear_model.ipynb
-- 03-Random_forest.ipynb
-- 04-Gradient_Boosting.ipynb
-- 05-Wrapup.pdf
+- 3-Random_forest.ipynb
+- 4-Gradient_Boosting.ipynb
+- 5-Wrap_up.pdf
 
 ## Evidence
 Our working is shown in our own directories,
