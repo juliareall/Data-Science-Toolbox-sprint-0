@@ -20,7 +20,7 @@ This report takes the following structure:
 ## Evidence
 Our working is shown in our own directories,
 - Orhan/Sprint0_Final (1).ipynb
-- JuliaReall/gradientboosting.pdf
+- JuliaReall/JR sprint0.ipynb
 - Seb/2-Linear_Model.ipynb
  
 Orhan wrote the Random Forest analysis, Julia wrote the Gradient Boosting analysis, Seb wrote the Linear Model analysis, and we wrote the Data Processing and wrap-up together after examination of the whole analysis.
