@@ -13,7 +13,7 @@ All report content is in the directory:
 This report takes the following structure:
 - 01-Data.Rmd
 - 02-Linear_model.Rmd
-- 03-Random_forest.Rmd
+- 03-Sprint0_Final (1).ipynb
 - 04-Gradient_Boosting
 - 05-Wrapup
 
@@ -21,7 +21,7 @@ With html output of the Rmd content included for convenience.
 
 ## Evidence
 Our working is shown in our own directories,
-- OrhanB/randomforest.pdf
+- Orhan/Sprint0_Final (1).ipynb
 - JuliaR/gradientboosting.pdf
 - SebR/Linearmodel.pdf
  
