@@ -19,7 +19,7 @@ This report takes the following structure:
 
 ## Evidence
 Our working is shown in our own directories,
-- Orhan/Sprint0_Final (1).ipynb
+- Orhan/3-Random_forest.ipynb
 - JuliaReall/JR sprint0.ipynb
 - Seb/2-Linear_Model.ipynb
  
