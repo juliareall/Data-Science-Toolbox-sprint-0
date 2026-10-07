@@ -14,13 +14,13 @@ This report takes the following structure:
 - 1-Data
 - 2-Linear_model.ipynb
 - 3-Random_forest.ipynb
-- 4-JR sprint0.ipynb
+- 4-Gradient_Boosting.ipynb
 - 5-Wrap_up.pdf
 
 ## Evidence
 Our working is shown in our own directories,
 - Orhan/3-Random_forest.ipynb
-- JuliaReall/JR sprint0.ipynb
+- JuliaReall/4-Gradient_Boosting.ipynb
 - Seb/2-Linear_Model.ipynb
  
 Orhan wrote the Random Forest analysis, Julia wrote the Gradient Boosting analysis, Seb wrote the Linear Model analysis, and we wrote the Data Processing and wrap-up together after examination of the whole analysis.
