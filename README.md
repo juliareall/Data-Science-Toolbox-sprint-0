@@ -11,7 +11,7 @@ All report content is in the directory:
 - report/
 
 This report takes the following structure:
-- 1-Data.csv
+- 1-Data
 - 2-Linear_model.ipynb
 - 3-Random_forest.ipynb
 - 4-Gradient_Boosting.ipynb
