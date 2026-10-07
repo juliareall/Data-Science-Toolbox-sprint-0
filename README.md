@@ -14,7 +14,7 @@ This report takes the following structure:
 - 1-Data
 - 2-Linear_model.ipynb
 - 3-Random_forest.ipynb
-- 4-Gradient_Boosting.ipynb
+- 4-JR sprint0.ipynb
 - 5-Wrap_up.pdf
 
 ## Evidence
